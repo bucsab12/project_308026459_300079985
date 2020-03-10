@@ -26,3 +26,6 @@ The following files are contained in the CODE directory:
 * Print_Segmentation_Results.py - Prints the segmentation of a selected brain. For each slice generates an image containing the 4 modalities along with groud truth and prediction mask.
 * calc_metrics.py - Caculates different evaluation metrics for two given sets of ground truth and prediction data over validation brains.
 n4_normalization.py - Runs N4 bias field correction algorithm over the entire dataset. Must be executed in Linux environment.
+
+We used the following github directory for inspiration in the first stages of the project:
+https://github.com/naldeborgh7575/brain_segmentation
