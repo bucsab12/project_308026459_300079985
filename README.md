@@ -14,7 +14,7 @@ The repository contains the following Folders:
 
 Follow these steps to run our code:
 * Open the Train.py file
-* Optionally change the hyperparameters at the top of the file. More information about each hyperparameter in the comments.
+* Optionally change the hyperparameters at the top of the file. More information about each hyperparameter in the comments in the file itself.
 * Run the code.
 
 The following files are contained in the CODE directory:
