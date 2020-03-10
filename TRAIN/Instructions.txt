@@ -1,0 +1,20 @@
+Place BraTS 2013 patient directories in this folder.
+
+Each folder should contain the following files:
+<patient>_flair.nii.gz
+<patient>_seg.nii.gz
+<patient>_t1.nii.gz
+<patient>_t1ce.nii.gz
+<patient>_t2.nii.gz
+
+For example:
+Patient (Folder name): BraTS19_2013_0_1
+Files:
+BraTS19_2013_0_1_flair.nii.gz
+BraTS19_2013_0_1_seg.nii.gz
+BraTS19_2013_0_1_t1.nii.gz
+BraTS19_2013_0_1_t1ce.nii.gz
+BraTS19_2013_0_1_t2.nii.gz
+
+The 30 patients in the BraTS 2013 dataset have the following directory names:
+BraTS19_2013_<0-29>_1

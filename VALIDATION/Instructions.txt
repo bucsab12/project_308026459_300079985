@@ -1,0 +1,18 @@
+Place random patient directories from the BraTS 2019 in this folder (ones not from the BraTS 2013 patients which were used for training).
+
+Each folder should contain the following files:
+<patient>_flair.nii.gz
+<patient>_seg.nii.gz
+<patient>_t1.nii.gz
+<patient>_t1ce.nii.gz
+<patient>_t2.nii.gz
+
+For example:
+Patient (Folder name): BraTS19_CBICA_AQD_1
+Files:
+BraTS19_CBICA_AQD_1_flair.nii.gz
+BraTS19_CBICA_AQD_1_seg.nii.gz
+BraTS19_CBICA_AQD_1_t1.nii.gz
+BraTS19_CBICA_AQD_1_t1ce.nii.gz
+BraTS19_CBICA_AQD_1_t2.nii.gz
+
